@@ -65,7 +65,7 @@ Strings
 | [Write a string sinusoidally][84]                                        |         |
 | [Implement run-length encoding][86]                                      |         |
 | [Implement the UNIX `tail` command][88]                                  |         |
-| [Find the first occurrence of a substring][90]                           |         |
+| [Find the first occurrence of a substring][90]                           |    ✓    |
 
 Linked List
 -----------
@@ -495,7 +495,7 @@ Honors Class
 [87]:  ./
 [88]:  ./
 [89]:  ./
-[90]:  ./
+[90]:  string/substring_match.cc
 [91]:  ./
 [92]:  ./
 [93]:  ./
