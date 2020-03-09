@@ -216,7 +216,7 @@ Binary Search Trees
 
 | Problem                                                                  | Solved  |
 |--------------------------------------------------------------------------|:-------:|
-| [Test if a binary tree satisfies the BST property][266]                  |         |
+| [Test if a binary tree satisfies the BST property][266]                  |    ✓    |
 | [Find the first occurrence of a key in a BST][268]                       |         |
 | [Find the first key larger than a given value in a BST][270]             |         |
 | [Find the *k* largest elements in a BST][272]                            |         |
@@ -672,7 +672,7 @@ Honors Class
 [263]: ./
 [264]: ./
 [265]: ./
-[266]: ./
+[266]: binary-search-tree/is_tree_a_bst.cc
 [267]: ./
 [268]: ./
 [269]: ./
