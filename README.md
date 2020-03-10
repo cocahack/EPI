@@ -238,6 +238,7 @@ Recursion
 | Problem                                                                  | Solved  |
 |--------------------------------------------------------------------------|:-------:|
 | [The Tower of Hanoi problem][296]                                        |         |
+| [Compute all mnemonics for a phone number][297]                          |    ✓    |
 | [Generate all nonattacking placements of *n*-Queens][298]                |         |
 | [Generate permutations][300]                                             |         |
 | [Generate the power set][302]                                            |         |
@@ -703,7 +704,7 @@ Honors Class
 [294]: ./
 [295]: ./
 [296]: ./
-[297]: ./
+[297]: recursion/phone_number_mnemonic.cc
 [298]: ./
 [299]: ./
 [300]: ./
