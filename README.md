@@ -242,7 +242,7 @@ Recursion
 | [Generate all nonattacking placements of *n*-Queens][298]                |         |
 | [Generate permutations][300]                                             |         |
 | [Generate the power set][302]                                            |         |
-| [Generate all subsets of size *k*][304]                                  |         |
+| [Generate all subsets of size *k*][304]                                  |    ✓    |
 | [Generate strings of matched parens][306]                                |         |
 | [Generate palindromic decompositions][308]                               |         |
 | [Generate binary trees][310]                                             |         |
@@ -711,7 +711,7 @@ Honors Class
 [301]: ./
 [302]: ./
 [303]: ./
-[304]: ./
+[304]: recursion/combinations.cc
 [305]: ./
 [306]: ./
 [307]: ./
